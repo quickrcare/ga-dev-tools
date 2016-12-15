@@ -1,0 +1,11 @@
+> Dashboard Data - prototype - JSON
+{
+  "key": "4eaba947-5e2b-47e8-b5d3-33aa218220ee",
+  "name": "Alex",
+  "isComplete": false,
+  "temp": "99.6",
+  "ambientTemp": null,
+  "probeTemp": null,
+  "heartRate": null,
+  "o2": null
+}
